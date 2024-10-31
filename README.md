@@ -46,7 +46,7 @@ I love diving into new frameworks, exploring advanced technologies, and contribu
   <img src="https://github-readme-stats.vercel.app/api?username=dev-guardian0&show_icons=true&theme=radical" height="180em"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-guardian0&theme=radical" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guardian0&layout=compact&theme=radical" height="180em"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-guardian0&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
